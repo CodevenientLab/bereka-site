@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /bereka-site/
+Sitemap: https://codevenientlab.github.io/bereka-site/sitemap.xml
