@@ -1,6 +1,6 @@
 # Bereka
 
-Working marketplace: https://bereka-marketplace.adeptauk16.chatgpt.site/
+Working marketplace: https://bereka.codevenient.co.za/
 
 The GitHub Pages root forwards visitors to the working application. Public information is available at https://codevenientlab.github.io/bereka-site/about.html
 
