@@ -1,9 +1,9 @@
-# Bereka information site
+# Bereka
 
-Public information pages for Bereka local services in Mahikeng.
+Working marketplace: https://bereka-marketplace.adeptauk16.chatgpt.site/
 
-Website: https://codevenientlab.github.io/bereka-site/
+The GitHub Pages root forwards visitors to the working application. Public information is available at https://codevenientlab.github.io/bereka-site/about.html
 
 Contact: info@codevenient.co.za
 
-This repository contains public static information only. The authenticated marketplace is hosted separately and remains under preparation.
+Only public static information and a redirect are stored here. The application source and secrets are kept separately.
